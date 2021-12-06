@@ -1,4 +1,0 @@
-<?Php
-	echo phpinfo();
-
-?>
